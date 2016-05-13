@@ -1,4 +1,4 @@
-tda382-lab3-code-skeleton
+Erlang Server
 =========================
 
-Code skeleton for Lab 3 (Course TDA382 - Chalmers)
+My implementation of Erlang Server and Client from a Chalmers Course (skeleton provided by Chalmers)
