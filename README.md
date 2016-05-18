@@ -1,4 +1,4 @@
 Erlang Server
 =========================
 
-Joint implementation of Erlang Server and Client from a Chalmers Course (skeleton provided by Chalmers)
+Joint implementation of Chat Server and Client in Erlang from a Chalmers Course (skeleton provided by Chalmers)
